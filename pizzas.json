@@ -1,0 +1,63 @@
+{
+  "pizzas": [
+    {
+      "name": "Margherita",
+      "price": 6.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella"
+      ]
+    },
+    {
+      "name": "Marinara",
+      "price": 5.00,
+      "ingredients": [
+        "pomodoro",
+        "aglio",
+        "origano"
+      ]
+    },
+    {
+      "name": "Bresaola",
+      "price": 9.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "bresaola",
+        "rucola",
+        "grana"
+      ]
+    },
+    {
+      "name": "Quattro Stagioni",
+      "price": 9.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "carciofi",
+        "prosciutto cotto",
+        "funghi",
+        "olive"
+      ]
+    },
+    {
+      "name": "Diavola",
+      "price": 8.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "salame piccante"
+      ]
+    },
+    {
+      "name": "Americana",
+      "price": 8.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "wurstel",
+        "patatine fritte"
+      ]
+    }
+  ]
+}
