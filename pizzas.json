@@ -19,7 +19,7 @@
     },
     {
       "name": "Bresaola",
-      "price": 9.00,
+      "price": 9.50,
       "ingredients": [
         "pomodoro",
         "mozzarella",
@@ -50,12 +50,217 @@
       ]
     },
     {
+      "name": "Rustichella",
+      "price": 9.50,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "rosciutto cotto",
+        "rucola",
+        "scaglie di grana"
+      ]
+    },
+    {
       "name": "Americana",
-      "price": 8.50,
+      "price": 8.00,
       "ingredients": [
         "pomodoro",
         "mozzarella",
         "wurstel",
+        "patatine fritte"
+      ]
+    },
+    {
+      "name": "Ortolana",
+      "price": 8.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        " verdure alla griglia"
+      ]
+    },
+    {
+      "name": "Siciliana",
+      "price": 7.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "olive",
+        "acciughe",
+        "capperi"
+      ]
+    },
+    {
+      "name": "Capricciosa",
+      "price": 9.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "prosciutto cotto",
+        "funghi",
+        "carciofi"
+      ]
+    },
+    {
+      "name": "Quattro Formaggi",
+      "price": 8.00,
+      "ingredients": [
+        "mozzarella",
+        "fontina gorgonzola",
+        "parmigiano Reggiano"
+      ]
+    },
+    {
+      "name": "Pugliese",
+      "price": 7.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "cipolle"
+      ]
+    },
+    {
+      "name": "Porcellina",
+      "price": 9.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "porchetta",
+        "patatine fritte"
+      ]
+    },
+    {
+      "name": "Trentina",
+      "price": 8.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "gorgonzola",
+        "speck"
+      ]
+    },
+    {
+      "name": "Alpeggio",
+      "price": 9.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "taleggio",
+        "prosciutto crudo"
+      ]
+    },
+    {
+      "name": "Doppio Gusto",
+      "price": 8.50,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "gorgonzola",
+        "salame piccante"
+      ]
+    },
+    {
+      "name": "Tonno",
+      "price": 8.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "tonno",
+        "cipolla"
+      ]
+    },
+    {
+      "name": "",
+      "price": 9.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella"
+      ]
+    },
+    {
+      "name": "",
+      "price": 9.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella"
+      ]
+    },
+    {
+      "name": "Parmigiana",
+      "price": 8.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "melanzane",
+        "scaglie di grana"
+      ]
+    },
+    {
+      "name": "Norma",
+      "price": 8.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "melanzane",
+        "ricotta salata"
+      ]
+    },
+    {
+      "name": "Golosa",
+      "price": 9.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "prosciutto",
+        "melanzana",
+        "gorgonzola"
+      ]
+    },
+    {
+      "name": "Speck e Brie",
+      "price": 7.50,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "speck",
+        "brie"
+      ]
+    },
+    {
+      "name": "Porcini e Zola",
+      "price": 10.50,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "funghi porcini",
+        "gorgonzola"
+      ]
+    },
+    {
+      "name": "Frutti di mare",
+      "price": 11.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "frutti di mare"
+      ]
+    },
+    {
+      "name": "Boscaiola",
+      "price": 9.50,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "funghi porcini",
+        "bresaola"
+      ]
+    },
+    {
+      "name": "Patatine",
+      "price": 7.00,
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
         "patatine fritte"
       ]
     }
