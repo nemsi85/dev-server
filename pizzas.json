@@ -3,6 +3,7 @@
     {
       "name": "Margherita",
       "price": 6.00,
+      "photo": "pizza_margherita.jpg",
       "ingredients": [
         "pomodoro",
         "mozzarella"
@@ -10,6 +11,7 @@
     },
     {
       "name": "Marinara",
+      "photo": "pizza_marinara.jpg",
       "price": 5.00,
       "ingredients": [
         "pomodoro",
@@ -19,6 +21,7 @@
     },
     {
       "name": "Bresaola",
+      "photo": "pizza.jpg",
       "price": 9.50,
       "ingredients": [
         "pomodoro",
@@ -30,6 +33,7 @@
     },
     {
       "name": "Quattro Stagioni",
+      "photo": "pizza_quattro_stagioni.jpg",
       "price": 9.00,
       "ingredients": [
         "pomodoro",
@@ -42,6 +46,7 @@
     },
     {
       "name": "Diavola",
+      "photo": "pizza_diavola.jpg",
       "price": 8.00,
       "ingredients": [
         "pomodoro",
@@ -51,6 +56,7 @@
     },
     {
       "name": "Rustichella",
+      "photo": "pizza.jpg",
       "price": 9.50,
       "ingredients": [
         "pomodoro",
@@ -62,6 +68,7 @@
     },
     {
       "name": "Americana",
+      "photo": "pizza_americana.jpg",
       "price": 8.00,
       "ingredients": [
         "pomodoro",
@@ -72,6 +79,7 @@
     },
     {
       "name": "Ortolana",
+      "photo": "pizza.jpg",
       "price": 8.00,
       "ingredients": [
         "pomodoro",
@@ -81,6 +89,7 @@
     },
     {
       "name": "Siciliana",
+      "photo": "pizza.jpg",
       "price": 7.00,
       "ingredients": [
         "pomodoro",
@@ -92,6 +101,7 @@
     },
     {
       "name": "Capricciosa",
+      "photo": "pizza.jpg",
       "price": 9.00,
       "ingredients": [
         "pomodoro",
@@ -103,6 +113,7 @@
     },
     {
       "name": "Quattro Formaggi",
+      "photo": "pizza_quattro_formaggi.jpg",
       "price": 8.00,
       "ingredients": [
         "mozzarella",
@@ -112,6 +123,7 @@
     },
     {
       "name": "Pugliese",
+      "photo": "pizza.jpg",
       "price": 7.00,
       "ingredients": [
         "pomodoro",
@@ -121,6 +133,7 @@
     },
     {
       "name": "Porcellina",
+      "photo": "pizza.jpg",
       "price": 9.00,
       "ingredients": [
         "pomodoro",
@@ -131,6 +144,7 @@
     },
     {
       "name": "Trentina",
+      "photo": "pizza.jpg",
       "price": 8.00,
       "ingredients": [
         "pomodoro",
@@ -141,6 +155,7 @@
     },
     {
       "name": "Alpeggio",
+      "photo": "pizza.jpg",
       "price": 9.00,
       "ingredients": [
         "pomodoro",
@@ -151,6 +166,7 @@
     },
     {
       "name": "Doppio Gusto",
+      "photo": "pizza_diavola.jpg",
       "price": 8.50,
       "ingredients": [
         "pomodoro",
@@ -161,6 +177,7 @@
     },
     {
       "name": "Tonno",
+      "photo": "pizza_tonno_cipolla.jpg",
       "price": 8.00,
       "ingredients": [
         "pomodoro",
@@ -171,6 +188,7 @@
     },
     {
       "name": "Parmigiana",
+      "photo": "pizza.jpg",
       "price": 8.00,
       "ingredients": [
         "pomodoro",
@@ -181,6 +199,7 @@
     },
     {
       "name": "Norma",
+      "photo": "pizza.jpg",
       "price": 8.00,
       "ingredients": [
         "pomodoro",
@@ -191,6 +210,7 @@
     },
     {
       "name": "Golosa",
+      "photo": "pizza.jpg",
       "price": 9.00,
       "ingredients": [
         "pomodoro",
@@ -202,6 +222,7 @@
     },
     {
       "name": "Speck e Brie",
+      "photo": "pizza.jpg",
       "price": 7.50,
       "ingredients": [
         "pomodoro",
@@ -212,6 +233,7 @@
     },
     {
       "name": "Porcini e Zola",
+      "photo": "pizza_porcini.jpg",
       "price": 10.50,
       "ingredients": [
         "pomodoro",
@@ -222,6 +244,7 @@
     },
     {
       "name": "Frutti di mare",
+      "photo": "pizza_frutti_mare.jpg",
       "price": 11.00,
       "ingredients": [
         "pomodoro",
@@ -231,6 +254,7 @@
     },
     {
       "name": "Boscaiola",
+      "photo": "pizza_boscaiola.jpg",
       "price": 9.50,
       "ingredients": [
         "pomodoro",
@@ -241,6 +265,7 @@
     },
     {
       "name": "Patatine",
+      "photo": "pizza_americana.jpg",
       "price": 7.00,
       "ingredients": [
         "pomodoro",
