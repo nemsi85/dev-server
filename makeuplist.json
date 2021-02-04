@@ -1,0 +1,154 @@
+{
+  "lipstick": [
+    {
+      "name": "Berlin",
+      "id": "",
+      "brand": "Kat Von D",
+      "type": "longlasting liquid lipstick",
+      "color": "#fc5282",
+      "color_description": "warm pink",
+      "finish": "matte",
+      "size": "Full-size"
+    },
+    {
+      "name": "Double Dare",
+      "id": "",
+      "brand": "Kat Von D",
+      "type": "longlasting liquid lipstick",
+      "color": "#df676d",
+      "color_description": "cocoa blush",
+      "finish": "matte",
+      "size": "Full-size"
+    },
+    {
+      "name": "Bachelorette",
+      "id": "",
+      "brand": "Kat Von D",
+      "type": "longlasting liquid lipstick",
+      "color": "#b10b2f",
+      "color_description": "dark reddish fuchsia",
+      "finish": "matte",
+      "size": "Full-size"
+    },
+    {
+      "name": "Vampira",
+      "id": "",
+      "brand": "Kat Von D",
+      "type": "longlasting liquid lipstick",
+      "color": "",
+      "color_description": "deep reddish burgundy",
+      "finish": "matte",
+      "size": "Full-size"
+    },
+    {
+      "name": "Damned",
+      "id": "",
+      "brand": "Kat Von D",
+      "type": "longlasting liquid lipstick",
+      "color": "#562020",
+      "color_description": "black cherry",
+      "finish": "matte",
+      "size": "mini-size"
+    },
+    {
+      "name": "Witches",
+      "id": "",
+      "brand": "Kat Von D",
+      "type": "longlasting liquid lipstick",
+      "color": "#000000",
+      "color_description": "black",
+      "finish": "matte",
+      "size": "mini-size"
+    },
+    {
+      "name": "Santa Sangre",
+      "id": "",
+      "brand": "Kat Von D",
+      "type": "longlasting liquid lipstick",
+      "color": "#d81221",
+      "color_description": "poison apple",
+      "finish": "matte",
+      "size": "mini-size"
+    },
+    {
+      "name": "Melancholia",
+      "id": "",
+      "brand": "Kat Von D",
+      "type": "longlasting liquid lipstick",
+      "color": "#f9a0d6",
+      "color_description": "rose pink",
+      "finish": "matte",
+      "size": "mini-size"
+    },
+    {
+      "name": "Lovecraft",
+      "id": "",
+      "brand": "Kat Von D",
+      "type": "longlasting liquid lipstick",
+      "color": "#c66f71",
+      "color_description": "mauve pink nude",
+      "finish": "matte",
+      "size": "mini-size"
+    },
+    {
+      "name": "Suspiria",
+      "id": "",
+      "brand": "Kat Von D",
+      "type": "longlasting liquid lipstick",
+      "color": "#9a4dbd",
+      "color_description": "bright lavander",
+      "finish": "matte",
+      "size": "mini-size"
+    },
+    {
+      "name": "Ludwig",
+      "id": "",
+      "brand": "Kat Von D",
+      "type": "longlasting liquid lipstick",
+      "color": "#bf837a",
+      "color_description": "nude biche",
+      "finish": "matte",
+      "size": "mini-size"
+    },
+    {
+      "name": "Exorcism",
+      "id": "",
+      "brand": "Kat Von D",
+      "type": "longlasting liquid lipstick",
+      "color": "#6c1e2e",
+      "color_description": "ripe blackberry",
+      "finish": "matte",
+      "size": "mini-size"
+    },
+    {
+      "name": "Hawkwind",
+      "id": "",
+      "brand": "Kat Von D",
+      "type": "longlasting liquid lipstick",
+      "color": "#9e414b",
+      "color_description": "nude sienna",
+      "finish": "matte",
+      "size": "mini-size"
+    },
+    {
+      "name": "Sanctuary",
+      "id": "",
+      "brand": "Kat Von D",
+      "type": "longlasting liquid lipstick",
+      "color": "#925958",
+      "color_description": "nude coffe",
+      "finish": "matte",
+      "size": "mini-size"
+    },
+    {
+      "name": "Madrid",
+      "id": "",
+      "brand": "Kat Von D",
+      "type": "longlasting liquid lipstick",
+      "color": "",
+      "color_description": "",
+      "finish": "matte",
+      "size": "mini-size"
+    }
+  ]
+}
