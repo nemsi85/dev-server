@@ -35,7 +35,7 @@
       "id": "",
       "brand": "Kat Von D",
       "type": "longlasting liquid lipstick",
-      "color": "#500F16",
+      "color": "",
       "color_description": "deep reddish burgundy",
       "finish": "matte",
       "size": "Full-size"
@@ -145,10 +145,182 @@
       "id": "",
       "brand": "Kat Von D",
       "type": "longlasting liquid lipstick",
-      "color": "#7C2932",
-      "color_description": "nutmeg",
+      "color": "",
+      "color_description": "",
       "finish": "matte",
       "size": "mini-size"
+    },
+    {
+      "name": "Blair",
+      "id": "",
+      "brand": "Nabla",
+      "type": "longlasting liquid lipstick",
+      "color": "#f79884",
+      "color_description": "",
+      "finish": "matte",
+      "size": "full-size"
+    },
+    {
+      "name": "Hanging Rock",
+      "id": "",
+      "brand": "Nabla",
+      "type": "longlasting liquid lipstick",
+      "color": "#93331a",
+      "color_description": "",
+      "finish": "matte",
+      "size": "full-size"
+    },
+    {
+      "name": "Rouge Assassin",
+      "id": "",
+      "brand": "Nabla",
+      "type": "longlasting liquid lipstick",
+      "color": "#a00a16",
+      "color_description": "",
+      "finish": "matte",
+      "size": "full-size"
+    },
+    {
+      "name": "Silk Road",
+      "id": "",
+      "brand": "Nabla",
+      "type": "longlasting liquid lipstick",
+      "color": "#a90d16",
+      "color_description": "Rosso amaranto",
+      "finish": "metal",
+      "size": "full-size"
+    },
+    {
+      "name": "Berry Bite",
+      "id": "",
+      "brand": "Nabla",
+      "type": "longlasting liquid lipstick",
+      "color": "#bd2f67",
+      "color_description": "",
+      "finish": "matte",
+      "size": "full-size"
+    },
+    {
+      "name": "Lysergic Red",
+      "id": "",
+      "brand": "Nabla",
+      "type": "longlasting liquid lipstick",
+      "color": "#de3638",
+      "color_description": "Rosso fuoco metallizzato",
+      "finish": "metal",
+      "size": "full-size"
+    },
+    {
+      "name": "Antimatter",
+      "id": "",
+      "brand": "Nabla",
+      "type": "longlasting liquid lipstick",
+      "color": "#d5a18b",
+      "color_description": "Oro rosa",
+      "finish": "metal",
+      "size": "full-size"
+    }
+  ],
+
+  "eyeshadow": [
+    {
+      "name": "Secret Palette",
+      "id": "",
+      "brand": "nabla",
+      "type": "eyeshadow palette",
+      "size": "no travel",
+      "num_pans": 15,
+      "color_family": "colorful",
+      "finish": "6 matte, 6 foil, 3 duochrome",
+      "colors": ""
+    },
+    {
+      "name": "Dreamy 2",
+      "id": "",
+      "brand": "nabla",
+      "type": "eyeshadow palette",
+      "size": "no travel",
+      "num_pans": 12,
+      "color_family": "colorful",
+      "finish": "3 matte, 3 foil, 4 glitter, 2 duochrome",
+      "colors": ""
+    },
+    {
+      "name": "Modern Renaissance",
+      "id": "",
+      "brand": "Anastasia Berverly Hills",
+      "type": "eyeshadow palette",
+      "size": "travel friendly",
+      "num_pans": 16,
+      "color_family": "nude",
+      "finish": "9 matte, 3 foil, 2 satin",
+      "colors": ""
+    },
+    {
+      "name": "Basic Bitch",
+      "id": "",
+      "brand": "Mac Cosmetics",
+      "type": "eyeshadow palette",
+      "size": "travel friendly",
+      "num_pans": 9,
+      "color_family": "nude",
+      "finish": "2 matte, 2 foil, 2 glitter, 3 duochrome",
+      "colors": ""
+    },
+    {
+      "name": "Norvina Mini Pallete 3",
+      "id": "",
+      "brand": "Anastasia Berverly Hills",
+      "type": "eyeshadow palette",
+      "size": "travel friendly",
+      "num_pans": 9,
+      "color_family": "colorful",
+      "finish": "5 matte, 1 satin, 2 glitter, 1 duochrome",
+      "colors": ""
+    },
+    {
+      "name": "Dream St. by Kathleen Lights",
+      "id": "",
+      "brand": "colourpop",
+      "type": "eyeshadow palette",
+      "size": "travel friendly",
+      "num_pans": 12,
+      "color_family": "nude",
+      "finish": "6 matte, 5 foil, 1 satin",
+      "colors": ""
+    },
+    {
+      "name": "10 Year Anniversary",
+      "id": "",
+      "brand": "kat von d",
+      "type": "eyeshadow palette",
+      "size": "no travel",
+      "num_pans": 16,
+      "color_family": "colorful",
+      "finish": "11 matte, 3 foil, 2 duochrome",
+      "colors": ""
+    },
+    {
+      "name": "Proceed with caution by Shayla",
+      "id": "",
+      "brand": "colourpop",
+      "type": "eyeshadow palette",
+      "size": "travel friendly",
+      "num_pans": 9,
+      "color_familz": "nude",
+      "finish": "4 matte, 4 foil, 1 glitter",
+      "colors": ""
+    },
+    {
+      "name": "Dream St. by Kathleen Lights",
+      "id": "",
+      "brand": "colourpop",
+      "type": "eyeshadow palette",
+      "size": "travel friendly",
+      "num_pans": 16,
+      "color_family": "nude",
+      "finish": "4 matte, 9 foil, 2 glitter, 1 duochrome",
+      "colors": ""
     }
   ]
 }
