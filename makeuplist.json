@@ -35,7 +35,7 @@
       "id": "",
       "brand": "Kat Von D",
       "type": "longlasting liquid lipstick",
-      "color": "",
+      "color": "#42110d",
       "color_description": "deep reddish burgundy",
       "finish": "matte",
       "size": "Full-size"
@@ -145,8 +145,8 @@
       "id": "",
       "brand": "Kat Von D",
       "type": "longlasting liquid lipstick",
-      "color": "",
-      "color_description": "",
+      "color": "#a55355",
+      "color_description": "matrix",
       "finish": "matte",
       "size": "mini-size"
     },
