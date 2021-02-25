@@ -229,7 +229,7 @@
       "type": "lipliner",
       "color": "#942e31",
       "color_description": "",
-      "finish": "",
+      "finish": "matte",
       "size": ""
     },
     {
@@ -239,7 +239,7 @@
       "type": "lipliner",
       "color": "#7f304d",
       "color_description": "",
-      "finish": "",
+      "finish": "matte",
       "size": ""
     },
     {"name": "DazzleLiner Klimt ",
