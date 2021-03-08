@@ -4200,46 +4200,34 @@
     {
       "name": "Mascara MadLash mini",
       "type": "Mascara",
-      "subtype": "Mascara",
       "brand": "The Balm",
       "size": "si",
       "color_family": "black",
       "num_items": 1,
-      "color_black": 1,
-      "finish_matte": 1,
       "is_new": false
     },
     {
       "name": "Mascara VForVolume Borgnogna",
       "type": "Mascara",
-      "subtype": "Mascara",
       "brand": "Sephora",
       "size": "si",
       "color_family": "red",
-      "num_items": 1,
-      "color_red": 1,
       "is_new": false
     },
     {
       "name": "Mascara VForVolume Viola",
       "type": "Mascara",
-      "subtype": "Mascara",
       "brand": "Sephora",
       "size": "si",
       "color_family": "purple",
-      "num_items": 1,
-      "color_violet": 1,
       "is_new": false
     },
     {
       "name": "Mascara VolumeOn 04 GreenOn",
       "type": "mascara",
-      "subtype": "Mascara",
       "brand": "Sephora",
       "size": "si",
       "color_family": "green",
-      "num_items": 1,
-      "color_green": 1,
       "is_new": false
     }
   ],
