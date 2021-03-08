@@ -1817,9 +1817,10 @@
       "color_sky": 1,
       "color_violet": 3,
       "color_pink": 4,
-      "general_finish": 13,
-      "finish_matte": 11,
-      "finish_foil": 3,
+      "general_finish": "mixed",
+      "finish_matte": 13,
+      "finish_foil": 11,
+      "finish_satin": 3,
       "is_new": false
     },
     {
